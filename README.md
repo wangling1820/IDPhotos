@@ -11,3 +11,5 @@ $ python main.py -i your_image_file -p your_path_to_output_image
 # python mian.py -i ./image.jpg -p . 
 # OK done!
 ```
+## PS
+只能处理背景整洁的正装证件照！！！
