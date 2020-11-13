@@ -13,3 +13,10 @@ $ python main.py -i your_image_file -p your_path_to_output_image
 ```
 ## PS
 只能处理背景整洁的正装证件照！！！
+## 处理前后的效果图
+### 处理前的原图
+![原图](./figures/image.jpg)<br>
+### 生成的三种不同背景颜色的照片
+![红色背景](./figures/red.jpg)<br>
+![蓝色背景](./figures/blue.jpg)<br>
+![白色背景](./figures/white.jpg)<br>
