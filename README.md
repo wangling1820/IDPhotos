@@ -20,5 +20,5 @@ $ python main.py -i your_image_file -p your_path_to_output_image
 ![红色背景](./figures/red.jpg)<br>
 ![蓝色背景](./figures/blue.jpg)<br>
 ![白色背景](./figures/white.jpg)<br>
-# 虽然，但是这个网站好像更高效：https://www.remove.bg/zh
+## 虽然，但是这个网站好像更高效：https://www.remove.bg/zh
 使用方法：首先上传图片，去除现有背景，然后点击编辑，增加所需要的底色，最后下载。
